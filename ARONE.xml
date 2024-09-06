@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="AR" size="5.000000 4.166667" />
+    <ImageTarget name="brain_t" size="5.000000 4.166667" />
+    <ImageTarget name="skeleton_t" size="10.000000 19.320755" />
+    <ImageTarget name="male_rep_t" size="5.000000 3.235294" />
+    <ImageTarget name="lungs_t" size="5.000000 5.000000" />
+    <ImageTarget name="liver_t" size="5.000000 4.004329" />
+    <ImageTarget name="kidney_d" size="5.000000 3.750000" />
+    <ImageTarget name="heart_t" size="5.000000 4.346154" />
+    <ImageTarget name="female_rep_t" size="5.000000 5.000000" />
+    <ImageTarget name="eye_t" size="5.000000 6.263001" />
+    <ImageTarget name="ear_t" size="5.000000 3.082031" />
+    <ImageTarget name="digestivesys_t" size="5.000000 5.900000" />
+    <ImageTarget name="diaphrahm_t" size="5.000000 2.812500" />
+    <ImageTarget name="b5" size="5.000000 6.194379" />
+    <ImageTarget name="b4" size="5.000000 8.888889" />
+    <ImageTarget name="b3" size="5.000000 8.888889" />
+    <ImageTarget name="b2" size="5.000000 8.888889" />
+    <ImageTarget name="b1" size="5.000000 8.171603" />
+    <ImageTarget name="ImageForAr" size="5.000000 6.739680" />
+  </Tracking>
+</QCARConfig>
